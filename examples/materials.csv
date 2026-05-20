@@ -1,0 +1,3 @@
+material,inp
+Q275,"*Material, name=Q275\n*Elastic\n206000.,0.3\n*Density\n7.85e-9"
+AL6061,"*Material, name=AL6061\n*Elastic\n69000.,0.33\n*Density\n2.70e-9"
